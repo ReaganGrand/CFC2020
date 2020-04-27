@@ -1,6 +1,9 @@
 # CFC2020
 CFC2020 submission - Covid-19 Tracker Solution
 
+##Solution Title
+Aarogya Rekha - An IoT enabled non-removable wristband for real-time quarantine tracking
+
 
 If expecting to run this application locally, please continue by installing [Node.js](https://nodejs.org/en/) runtime and NPM. If your system requires multiple versions of Node for other projects, we'd suggest using [nvm](https://github.com/creationix/nvm) to easily switch between Node versions. NVM can be installed with the following commands
 ```
@@ -31,6 +34,9 @@ Please refer Docs/Aarogya_Rekha_Solution_Process_Flow.pdf
 
 ## Application Technical Architecture Diagram
 Please refer Docs/Aarogya_Rekha_Technical_Architecture.pdf
+
+## Detailed Solution Description
+Please refer Docs/Aarogya_Rekha_Detailed_Solution.pdf
 
 ## Solution Video link
 https://www.youtube.com/watch?v=sllZc2HCyCg&feature=youtu.be
