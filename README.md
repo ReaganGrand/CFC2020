@@ -1,7 +1,7 @@
 # CFC2020
 CFC2020 submission - Covid-19 Tracker Solution
 
-##Solution Title
+# Solution Title
 Aarogya Rekha - An IoT enabled non-removable wristband for real-time quarantine tracking
 
 
