@@ -1,5 +1,5 @@
 # CFC2020
-CFC2020 submission
+CFC2020 submission - Covid-19 Tracker Solution
 
 
 If expecting to run this application locally, please continue by installing [Node.js](https://nodejs.org/en/) runtime and NPM. If your system requires multiple versions of Node for other projects, we'd suggest using [nvm](https://github.com/creationix/nvm) to easily switch between Node versions. NVM can be installed with the following commands
