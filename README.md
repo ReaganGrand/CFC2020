@@ -26,4 +26,8 @@ Start the application with
 ```
 node app.js
 ```
+## Application Workflow Diagram
+Please refer Docs/Aarogya_Rekha_Solution_Process_Flow.pdf
 
+## Application Technical Architecture Diagram
+Please refer Docs/Aarogya_Rekha_Technical_Architecture.pdf
