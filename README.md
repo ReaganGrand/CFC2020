@@ -10,8 +10,8 @@ Please refer Docs/Aarogya_Rekha_Solution_Process_Flow.pdf
 ## Application Technical Architecture Diagram
 Please refer Docs/Aarogya_Rekha_Technical_Architecture.pdf
 
-## Detailed Solution Description
-Please refer Docs/Aarogya_Rekha_Detailed_Solution.pdf
+## Solution Description
+Please refer Docs/Aarogya_Rekha_Solution.pdf
 
 ## Solution Video link
 https://youtu.be/RsiSWPjo87s
