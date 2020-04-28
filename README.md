@@ -16,6 +16,7 @@ Please refer Docs/Aarogya_Rekha_Detailed_Solution.pdf
 ## Solution Video link
 https://youtu.be/RsiSWPjo87s
 
+## How to run the application
 
 If expecting to run this application locally, please continue by installing [Node.js](https://nodejs.org/en/) runtime and NPM. If your system requires multiple versions of Node for other projects, we'd suggest using [nvm](https://github.com/creationix/nvm) to easily switch between Node versions. NVM can be installed with the following commands
 ```
