@@ -30,7 +30,7 @@ nvm use 8.9.0
 ```
 
 To run the UI locally, we'll need to install a few node libraries which are listed in our `package.json` file.
-- [Leaflet.js](https://leafletjs.com/): Open source library for interactive mapping
+- [HERE.js](https://www.here.com//): For interactive mapping & geofence
 - [MQTT](http://mqtt.org/): Client package to subscribe to Watson IoT Platform and handle incoming messages
 
 Install the listed node packages by running `npm install` in the project root directory.
