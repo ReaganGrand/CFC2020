@@ -16,7 +16,7 @@
   "dependencies": {
     "dotenv": "^6.0.0",
     "express": "^4.16.3",
-    "nodejs-hot-reload": "^0.1.2",
+    "nodejs-hot-reload": "^1.0.7",
     "tingle.js": "^0.13.2",
     "underscore": "^1.9.1"
   },
